@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SilkScreenLogos)(type KiCad)(uri ${KIPRJMOD}/SilkScreenLogos.pretty)(options "")(descr ""))
+  (lib (name gimme_five_oshw)(type Legacy)(uri ${KIPRJMOD}/SilkScreenLogos.pretty/lib/gimme_five_oshw.mod)(options "")(descr ""))
+)
